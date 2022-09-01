@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "my-address": "/components/my-address/my-address",
+    "my-goods": "/components/my-goods/my-goods",
+    "my-settle": "/components/my-settle/my-settle"
+  }
+}
